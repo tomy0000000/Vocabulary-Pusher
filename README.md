@@ -24,8 +24,8 @@ During the months I'm studing for AST Exam, I find it uncomfortable to sqeeze my
 2. Install Action [`Send to IFTTT`](https://www.keyboardmaestro.com/main/third-party-actions#SendToIFTTT)
 3. Install Macro [`Vocabulary Pusher.kmmacros`]()
 4. Get Your IFTTT Key at [`Webhooks`](https://ifttt.com/maker_webhooks) -> `Documentation`
-4. Open `Keyboard Maestro Preferences` -> `Variables` and add a new variable named `VP_IFTTTKey` with your IFTTT Key paste in as value
-4. Make sure `Keyboard Maestro Engine` is added in Login Item
+5. Open `Keyboard Maestro Preferences` -> `Variables` and add a new variable named `VP_IFTTTKey` with your IFTTT Key paste in as value
+6. Make sure `Keyboard Maestro Engine` is added in Login Item
 
 # Documentation
 ## To Add Vocabularies...
