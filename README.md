@@ -1,6 +1,6 @@
 # Vocabulary-Pusher
 A Cross-Platform Gear Aim to help Memorizing Vocabularies
-![](https://github.com/tomy0000000/Vocabulary-Pusher/blob/master/Display%20Pics/Notification.gif?raw=true)
+![](https://github.com/tomy0000000/Vocabulary-Pusher/blob/bff650dcf768cb22fb57a95e9a38e788d02977eb/Display%20Pics/Notification.gif?raw=true)
 
 # Introduction
 During the months I'm studing for AST Exam, I find it uncomfortable to sqeeze my time out just to memorize more useless vocabluaries. Therefore, I develope these script to help me memorize in a more effective way.
